@@ -20,7 +20,9 @@
 
 ## Education
 Orenburg State College of Arts, L. and M. Rostropovich
+***
 Instruments of Russian Folk Orchestra
+***
 Major - Balalaika
 
 ## Courses
