@@ -63,9 +63,9 @@ Major - Balalaika
 ## Courses
 * [FreeCodeCamp](https://www.freecodecamp.org/)
 * [Codecademy](https://www.codecademy.com/)
+* [Zero To Code](https://zerotocode.today/)
 
 ## Languages
 1. Russian - Native tongue
 2. English - B2
 3. Spanish - A2
-4. Japanese - N5
